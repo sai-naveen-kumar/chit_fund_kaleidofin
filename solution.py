@@ -28,7 +28,7 @@ class ChitFund:
 
 
 def main():
-    C1 = ChitFund('input.csv')
+    C1 = ChitFund('data.csv')
 
     C1.df['Total Return'] = C1.totalReturn
     C1.df['Annualized Return'] = C1.annual_return()
