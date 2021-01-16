@@ -23,7 +23,8 @@ Document your assumptions.
 
 # OUTPUT
 Annualized  Return of the person who bids in the last month is: 25776.0
-Annualized Return of the person who bids in the first month is: 20976.0
+<br>
+Annualized Return of the person who bids in the first month is: 20976.0<br>
     Month  Contribution  ...  Annualized Return  Return Percentage
 0       1          2000  ...            20976.0               87.4
 1       2          2000  ...            21936.0               91.4
