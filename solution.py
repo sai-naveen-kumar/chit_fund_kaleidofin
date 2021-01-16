@@ -36,7 +36,7 @@ def main():
     print('Annualized  Return of the person who bids in the last month is: {}'.format(list(C1.df['Annualized Return'])[-1]))
     print('Annualized Return of the person who bids in the first month is: {}'.format(list(C1.df['Annualized Return'])[0]))
     C1.show_data(25)
-    C1.df.to_csv('output.csv')
+    C1.df.to_csv('input.csv')
 
 if __name__ =='__main__':
     main()
